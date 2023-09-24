@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="description">Description</string>
+    <string name="city_name">City</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="celsius_degrees">°C</string>
+    <string name="weather_type">Weather type</string>
+    <string name="feels_like">Odczuwalna</string>
+    <string name="temperature_headline">Temperatura</string>
+    <string name="pressure_headline">Ciśnienie</string>
+    <string name="pressure">mBar</string>
+    <string name="wind_speed_headline">Prędkość wiatru</string>
+    <string name="wind_speed">m/s</string>
+    <string name="wind_direction_headline">Kierunek wiatru</string>
+    <string name="wind_direction">°</string>
+    <string name="temperature">Temperatura</string>
+    <string name="percent">%</string>
+    <string name="sunrise">Wschód</string>
+    <string name="sunset">Zachód</string>
+    <string name="speed">Prędkość</string>
+    <string name="direction">Kierunek</string>
+    <string name="divide">|</string>
+    <string name="humidity">Wilgotność</string>
+    <string name="visibility">Widoczność</string>
+    <string name="hour">0:00</string>
+    <string name="placeholder">Miasto</string>
+    <string name="add_btn">Dodaj</string>
+    <string name="choose_btn">Wybierz</string>
+    <string name="forecast_date">Data</string>
+    <string name="update_time">Częstotliwość odświeżania danych</string>
+    <string name="minutes">Minuty</string>
+    <string name="units">Jednostki</string>
+    <string-array name="array">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+    <string name="confirm">Potwierdź</string>
+</resources>
