@@ -1,10 +1,10 @@
 
-# WeatherApp
+# WeatherApp 🌤️
 
 WeatherAPp is Java-based application that allows users to get real-time information about weather conditions based on their location. The application utilizes data provided by OpenWeatherMap API. 
 
 
-# Key features
+# Key features ⚙️
 
 ### Location search
 
@@ -18,7 +18,7 @@ The application provides weather forecast for five days ahead.
 
 On smartphones all the information is split between three screens, on tablets everything is displayed on one screen.
 
-# Screenshots
+# Screenshots 📸
 
 ![App Screenshot](https://i.postimg.cc/85B6vwBV/Screenshot-20230922-210544.png)
 
