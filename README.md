@@ -18,6 +18,10 @@ The application provides weather forecast for five days ahead.
 
 On smartphones all the information is split between three screens, on tablets everything is displayed on one screen.
 
+# Live demo 🎥
+
+https://github.com/krzysztofnoga1/WeatherApp/assets/103099396/9bbd79e9-7265-4ab1-baf0-4ed2722b5a45
+
 # Screenshots 📸
 
 ![App Screenshot](https://i.postimg.cc/85B6vwBV/Screenshot-20230922-210544.png)
